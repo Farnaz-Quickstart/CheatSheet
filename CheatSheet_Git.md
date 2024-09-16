@@ -1,6 +1,6 @@
 # Git Cheetsheat
 
-### Getting Started
+## Getting Started
 
 `git init`
 
